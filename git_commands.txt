@@ -1,0 +1,11 @@
+git add .
+git commit -m "update"
+git push
+
+ls
+cd folder
+git pull
+
+git reset --hard
+
+sudo systemctl restart odoo
